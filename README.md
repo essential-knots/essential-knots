@@ -8,4 +8,4 @@ Hi!  This will be a little repo to document what I consider are some "essential 
 - clove hitch
 - double bowline (with Yosemite finish)
 - double constrictor
-- slipped buntline
+- buntline (traditional and slipped)
